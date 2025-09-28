@@ -1,8 +1,8 @@
 # Layan Wallpaper with Debian Logo
 This repository contains the two original custom wallpapers (2560×1440) that combine the Layan KDE theme design with the open source Debian Project logo.
 
-<img src="preview/preview1.png" alt="Layan Debian Wallpaper 1" width="720">
-<img src="preview/preview2.png" alt="Layan Debian Wallpaper 2" width="720">
+![Layan Debian Wallpaper 1](preview/preview1.png)
+![Layan Debian Wallpaper 2](preview/preview2.png)
 
 
 ## Licensing and Usage
